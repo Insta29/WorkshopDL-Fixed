@@ -1,0 +1,36 @@
+
+
+[2026-10-01 18:03:14] Client version: 1788292693
+[2026-10-01 18:03:14] Failed to read store 'install' from 'D:\Games\WorkshopDL\steamcmd\config\config.vdf.tmp'
+[2026-10-01 18:03:14] Failed to read store 'install' from 'D:\Games\WorkshopDL\steamcmd\config\config.vdf.tmp'
+[2026-10-01 18:03:14] Failed to read store 'install' from 'D:\Games\WorkshopDL\steamcmd\config\config.vdf.tmp'
+[2026-10-01 18:03:14] Failed to read store 'install' from 'D:\Games\WorkshopDL\steamcmd\config\config.vdf.tmp'
+[2026-10-01 18:03:15] Flushed store 'install' to 'D:\Games\WorkshopDL\steamcmd\config\config.vdf'
+[2026-10-01 18:03:15] Loaded store 'install' from 'D:\Games\WorkshopDL\steamcmd\config\config.vdf' successfully
+[2026-10-01 18:03:15] Flushed store 'install' to 'D:\Games\WorkshopDL\steamcmd\config\config.vdf'
+[2026-10-01 18:03:19] Flushed store 'install' to 'D:\Games\WorkshopDL\steamcmd\config\config.vdf'
+[2026-10-01 18:03:19] Failed to read store 'userlocal' from 'D:\Games\WorkshopDL\steamcmd\userdata\anonymous\config\localconfig.vdf.tmp'
+[2026-10-01 18:03:19] Flushed store 'install' to 'D:\Games\WorkshopDL\steamcmd\config\config.vdf'
+[2026-10-01 18:03:21] Flushed store 'userlocal' to 'D:\Games\WorkshopDL\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2026-10-02 16:05:24] Client version: 1788292693
+[2026-10-02 16:05:24] Loaded store 'install' from 'D:\Games\WorkshopDL\steamcmd\config\config.vdf' successfully
+[2026-10-02 16:05:24] Loaded store 'install' from 'D:\Games\WorkshopDL\steamcmd\config\config.vdf' successfully
+[2026-10-02 16:05:24] Loaded store 'install' from 'D:\Games\WorkshopDL\steamcmd\config\config.vdf' successfully
+[2026-10-02 16:05:24] Loaded store 'install' from 'D:\Games\WorkshopDL\steamcmd\config\config.vdf' successfully
+[2026-10-02 16:05:25] Loaded store 'install' from 'D:\Games\WorkshopDL\steamcmd\config\config.vdf' successfully
+[2026-10-02 16:05:27] Loaded store 'userlocal' from 'D:\Games\WorkshopDL\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2026-10-02 16:05:27] Flushed store 'install' to 'D:\Games\WorkshopDL\steamcmd\config\config.vdf'
+[2026-10-02 16:05:30] Flushed store 'userlocal' to 'D:\Games\WorkshopDL\steamcmd\userdata\anonymous\config\localconfig.vdf'
+
+
+[2026-10-06 23:30:39] Client version: 1788292693
+[2026-10-06 23:30:39] Loaded store 'install' from 'D:\Games\WorkshopDL\steamcmd\config\config.vdf' successfully
+[2026-10-06 23:30:39] Loaded store 'install' from 'D:\Games\WorkshopDL\steamcmd\config\config.vdf' successfully
+[2026-10-06 23:30:39] Loaded store 'install' from 'D:\Games\WorkshopDL\steamcmd\config\config.vdf' successfully
+[2026-10-06 23:30:39] Loaded store 'install' from 'D:\Games\WorkshopDL\steamcmd\config\config.vdf' successfully
+[2026-10-06 23:30:40] Loaded store 'install' from 'D:\Games\WorkshopDL\steamcmd\config\config.vdf' successfully
+[2026-10-06 23:30:42] Loaded store 'userlocal' from 'D:\Games\WorkshopDL\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2026-10-06 23:30:42] Flushed store 'install' to 'D:\Games\WorkshopDL\steamcmd\config\config.vdf'
+[2026-10-06 23:30:44] Flushed store 'userlocal' to 'D:\Games\WorkshopDL\steamcmd\userdata\anonymous\config\localconfig.vdf'

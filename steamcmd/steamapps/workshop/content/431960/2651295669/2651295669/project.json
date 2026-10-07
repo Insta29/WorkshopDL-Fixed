@@ -1,0 +1,25 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "Don't disturb the cat",
+	"file" : "Cat in the car listening to her favorite song.mp4",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.gif",
+	"tags" : [ "Animal" ],
+	"title" : "Cat Vibin",
+	"type" : "video",
+	"version" : 0,
+	"workshopid" : "2651295669",
+	"workshopurl" : "steam://url/CommunityFilePage/2651295669"
+}

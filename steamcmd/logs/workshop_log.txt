@@ -1,0 +1,611 @@
+
+
+[2026-10-01 18:03:19] Client version: 1788292693
+[2026-10-01 18:03:19] Loading workshop items for 0 installed apps for user [a:1:1667654910]:
+[2026-10-01 18:03:25] [AppID 431960] Workshop depot not defined, legacy support only
+[2026-10-01 18:03:25] [AppID 431960] Loaded workshop items in "D:\Games\WorkshopDL\steamcmd\steamapps\workshop" (0 installed, 0 needed)
+[2026-10-01 18:03:25] [AppID 431960] Download item 3250755486 requested by app
+[2026-10-01 18:03:25] [AppID 431960] Starting Workshop download job (requested item 3250755486 )
+[2026-10-01 18:03:26] [AppID 431960] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1790859660
+[2026-10-01 18:03:26] [AppID 431960] Detected workshop change (latest from server) : changed cached item 3250755486, new manifest 8853143709593279716
+[2026-10-01 18:03:26] [AppID 431960] Download item 3250755486 result : Failure
+[2026-10-01 18:03:26] [AppID 431960] No workshop depot defined, skipping non-legacy item 3250755486
+[2026-10-01 18:03:26] [AppID 431960] Finished Workshop download job : No Error
+[2026-10-01 18:03:26] [AppID 431960] No workshop depot defined, re-fetching info for supposed non-legacy item 3250755486
+
+
+[2026-10-02 16:05:27] Client version: 1788292693
+[2026-10-02 16:05:27] Loading workshop items for 0 installed apps for user [a:1:68547644]:
+[2026-10-02 16:05:30] [AppID 431960] Loaded workshop items in "D:\Games\WorkshopDL\steamcmd\steamapps\workshop" (0 installed, 0 needed)
+[2026-10-02 16:05:30] [AppID 431960] Download item 2651295669 requested by app
+[2026-10-02 16:05:30] [AppID 431960] Starting Workshop download job (requested item 2651295669 )
+[2026-10-02 16:05:30] [AppID 431960] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1790938319
+[2026-10-02 16:05:30] [AppID 431960] Detected workshop change (latest from server) : changed cached item 2651295669, new manifest 4282544027161486256
+[2026-10-02 16:05:31] [AppID 431960] Update canceled: Failed to initialize depot 431960, manifest 4282544027161486256 (Missing decryption key) (Missing decryption key)
+[2026-10-02 16:05:31] [AppID 431960] Download item 2651295669 result : Failure
+[2026-10-02 16:05:31] [AppID 431960] Updating workshop item details failed with Failure
+
+
+[2026-10-06 23:30:42] Client version: 1788292693
+[2026-10-06 23:30:42] Loading workshop items for 0 installed apps for user [a:1:1855258760]:
+[2026-10-06 23:30:44] [AppID 255710] Loaded workshop items in "D:\Games\WorkshopDL\steamcmd\steamapps\workshop" (0 installed, 0 needed)
+[2026-10-06 23:30:44] [AppID 255710] Download item 2058766681 requested by app
+[2026-10-06 23:30:44] [AppID 255710] Starting Workshop download job (requested item 2058766681 )
+[2026-10-06 23:30:45] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:30:45] [AppID 255710] Detected workshop change (latest from server) : changed cached item 2058766681, new manifest 6853400813102435679
+[2026-10-06 23:30:45] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 6853400813102435679 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:30:45] [AppID 255710] Download item 2058766681 result : Failure
+[2026-10-06 23:30:46] [AppID 255710] Item change feed returned Access Denied (revision 0, cursor 0)
+[2026-10-06 23:30:46] [AppID 255710] Updating workshop item details failed with Access Denied
+[2026-10-06 23:30:46] [AppID 255710] Download item 1835432619 requested by app
+[2026-10-06 23:30:46] [AppID 255710] Starting Workshop download job (requested item 1835432619 )
+[2026-10-06 23:30:46] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:30:46] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1835432619, new manifest 5238543983778762746
+[2026-10-06 23:30:47] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 5238543983778762746 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:30:47] [AppID 255710] Download item 1835432619 result : Failure
+[2026-10-06 23:30:47] [AppID 255710] Download item 1835431595 requested by app
+[2026-10-06 23:30:47] [AppID 255710] Starting Workshop download job (requested item 1835431595 )
+[2026-10-06 23:30:48] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:30:48] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1835431595, new manifest 1369524291285508186
+[2026-10-06 23:30:48] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 1369524291285508186 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:30:48] [AppID 255710] Download item 1835431595 result : Failure
+[2026-10-06 23:30:49] [AppID 255710] Download item 2033713094 requested by app
+[2026-10-06 23:30:49] [AppID 255710] Starting Workshop download job (requested item 2033713094 )
+[2026-10-06 23:30:49] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:30:49] [AppID 255710] Detected workshop change (latest from server) : changed cached item 2033713094, new manifest 8777633404165397040
+[2026-10-06 23:30:50] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 8777633404165397040 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:30:50] [AppID 255710] Download item 2033713094 result : Failure
+[2026-10-06 23:30:50] [AppID 255710] Download item 2033714302 requested by app
+[2026-10-06 23:30:50] [AppID 255710] Starting Workshop download job (requested item 2033714302 )
+[2026-10-06 23:30:51] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:30:51] [AppID 255710] Detected workshop change (latest from server) : changed cached item 2033714302, new manifest 7132380670540897905
+[2026-10-06 23:30:51] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 7132380670540897905 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:30:51] [AppID 255710] Download item 2033714302 result : Failure
+[2026-10-06 23:30:52] [AppID 255710] Download item 2033711996 requested by app
+[2026-10-06 23:30:52] [AppID 255710] Starting Workshop download job (requested item 2033711996 )
+[2026-10-06 23:30:52] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:30:52] [AppID 255710] Detected workshop change (latest from server) : changed cached item 2033711996, new manifest 4793895225112850573
+[2026-10-06 23:30:53] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 4793895225112850573 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:30:53] [AppID 255710] Download item 2033711996 result : Failure
+[2026-10-06 23:30:53] [AppID 255710] Download item 1835509733 requested by app
+[2026-10-06 23:30:53] [AppID 255710] Starting Workshop download job (requested item 1835509733 )
+[2026-10-06 23:30:54] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:30:54] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1835509733, new manifest 8372079138443388999
+[2026-10-06 23:30:54] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 8372079138443388999 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:30:54] [AppID 255710] Download item 1835509733 result : Failure
+[2026-10-06 23:30:55] [AppID 255710] Download item 1835510875 requested by app
+[2026-10-06 23:30:55] [AppID 255710] Starting Workshop download job (requested item 1835510875 )
+[2026-10-06 23:30:55] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:30:55] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1835510875, new manifest 3441442023118190987
+[2026-10-06 23:30:56] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 3441442023118190987 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:30:56] [AppID 255710] Download item 1835510875 result : Failure
+[2026-10-06 23:30:56] [AppID 255710] Download item 1835507808 requested by app
+[2026-10-06 23:30:56] [AppID 255710] Starting Workshop download job (requested item 1835507808 )
+[2026-10-06 23:30:57] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:30:57] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1835507808, new manifest 3451244336950875507
+[2026-10-06 23:30:57] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 3451244336950875507 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:30:57] [AppID 255710] Download item 1835507808 result : Failure
+[2026-10-06 23:30:58] [AppID 255710] Download item 1835536940 requested by app
+[2026-10-06 23:30:58] [AppID 255710] Starting Workshop download job (requested item 1835536940 )
+[2026-10-06 23:30:58] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:30:58] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1835536940, new manifest 2005260663073595298
+[2026-10-06 23:30:59] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 2005260663073595298 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:30:59] [AppID 255710] Download item 1835536940 result : Failure
+[2026-10-06 23:30:59] [AppID 255710] Download item 1835537791 requested by app
+[2026-10-06 23:30:59] [AppID 255710] Starting Workshop download job (requested item 1835537791 )
+[2026-10-06 23:31:00] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:00] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1835537791, new manifest 3155068711469628499
+[2026-10-06 23:31:00] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 3155068711469628499 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:00] [AppID 255710] Download item 1835537791 result : Failure
+[2026-10-06 23:31:01] [AppID 255710] Download item 1835536097 requested by app
+[2026-10-06 23:31:01] [AppID 255710] Starting Workshop download job (requested item 1835536097 )
+[2026-10-06 23:31:01] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:01] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1835536097, new manifest 7751906656932442396
+[2026-10-06 23:31:02] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 7751906656932442396 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:02] [AppID 255710] Download item 1835536097 result : Failure
+[2026-10-06 23:31:02] [AppID 255710] Download item 1835722749 requested by app
+[2026-10-06 23:31:02] [AppID 255710] Starting Workshop download job (requested item 1835722749 )
+[2026-10-06 23:31:03] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:03] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1835722749, new manifest 1444155548121731088
+[2026-10-06 23:31:03] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 1444155548121731088 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:03] [AppID 255710] Download item 1835722749 result : Failure
+[2026-10-06 23:31:04] [AppID 255710] Download item 1835721792 requested by app
+[2026-10-06 23:31:04] [AppID 255710] Starting Workshop download job (requested item 1835721792 )
+[2026-10-06 23:31:04] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:04] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1835721792, new manifest 8406212984705624289
+[2026-10-06 23:31:04] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 8406212984705624289 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:04] [AppID 255710] Download item 1835721792 result : Failure
+[2026-10-06 23:31:05] [AppID 255710] Download item 1845821881 requested by app
+[2026-10-06 23:31:05] [AppID 255710] Starting Workshop download job (requested item 1845821881 )
+[2026-10-06 23:31:05] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:05] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1845821881, new manifest 6224378368305578383
+[2026-10-06 23:31:06] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 6224378368305578383 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:06] [AppID 255710] Download item 1845821881 result : Failure
+[2026-10-06 23:31:06] [AppID 255710] Download item 1845822442 requested by app
+[2026-10-06 23:31:07] [AppID 255710] Starting Workshop download job (requested item 1845822442 )
+[2026-10-06 23:31:07] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:07] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1845822442, new manifest 3027495532833083677
+[2026-10-06 23:31:07] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 3027495532833083677 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:07] [AppID 255710] Download item 1845822442 result : Failure
+[2026-10-06 23:31:08] [AppID 255710] Download item 1856203595 requested by app
+[2026-10-06 23:31:08] [AppID 255710] Starting Workshop download job (requested item 1856203595 )
+[2026-10-06 23:31:08] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:08] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1856203595, new manifest 4371269028137439399
+[2026-10-06 23:31:09] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 4371269028137439399 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:09] [AppID 255710] Download item 1856203595 result : Failure
+[2026-10-06 23:31:09] [AppID 255710] Download item 1845821270 requested by app
+[2026-10-06 23:31:09] [AppID 255710] Starting Workshop download job (requested item 1845821270 )
+[2026-10-06 23:31:10] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:10] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1845821270, new manifest 3977436693621322144
+[2026-10-06 23:31:10] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 3977436693621322144 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:10] [AppID 255710] Download item 1845821270 result : Failure
+[2026-10-06 23:31:11] [AppID 255710] Download item 1856204290 requested by app
+[2026-10-06 23:31:11] [AppID 255710] Starting Workshop download job (requested item 1856204290 )
+[2026-10-06 23:31:11] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:11] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1856204290, new manifest 1204214741548715222
+[2026-10-06 23:31:12] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 1204214741548715222 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:12] [AppID 255710] Download item 1856204290 result : Failure
+[2026-10-06 23:31:12] [AppID 255710] Download item 1856202797 requested by app
+[2026-10-06 23:31:12] [AppID 255710] Starting Workshop download job (requested item 1856202797 )
+[2026-10-06 23:31:13] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:13] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1856202797, new manifest 5883096585843312092
+[2026-10-06 23:31:13] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 5883096585843312092 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:13] [AppID 255710] Download item 1856202797 result : Failure
+[2026-10-06 23:31:14] [AppID 255710] Download item 1868703766 requested by app
+[2026-10-06 23:31:14] [AppID 255710] Starting Workshop download job (requested item 1868703766 )
+[2026-10-06 23:31:14] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:14] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1868703766, new manifest 843360113217876029
+[2026-10-06 23:31:15] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 843360113217876029 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:15] [AppID 255710] Download item 1868703766 result : Failure
+[2026-10-06 23:31:15] [AppID 255710] Download item 1868704461 requested by app
+[2026-10-06 23:31:15] [AppID 255710] Starting Workshop download job (requested item 1868704461 )
+[2026-10-06 23:31:16] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:16] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1868704461, new manifest 1398905206284223281
+[2026-10-06 23:31:16] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 1398905206284223281 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:16] [AppID 255710] Download item 1868704461 result : Failure
+[2026-10-06 23:31:17] [AppID 255710] Download item 1868702934 requested by app
+[2026-10-06 23:31:17] [AppID 255710] Starting Workshop download job (requested item 1868702934 )
+[2026-10-06 23:31:17] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:17] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1868702934, new manifest 1153322757835578460
+[2026-10-06 23:31:18] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 1153322757835578460 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:18] [AppID 255710] Download item 1868702934 result : Failure
+[2026-10-06 23:31:18] [AppID 255710] Download item 1910030995 requested by app
+[2026-10-06 23:31:18] [AppID 255710] Starting Workshop download job (requested item 1910030995 )
+[2026-10-06 23:31:19] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:19] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1910030995, new manifest 4470836988323169161
+[2026-10-06 23:31:19] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 4470836988323169161 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:19] [AppID 255710] Download item 1910030995 result : Failure
+[2026-10-06 23:31:20] [AppID 255710] Download item 1910030452 requested by app
+[2026-10-06 23:31:20] [AppID 255710] Starting Workshop download job (requested item 1910030452 )
+[2026-10-06 23:31:20] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:20] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1910030452, new manifest 7285047463711920415
+[2026-10-06 23:31:21] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 7285047463711920415 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:21] [AppID 255710] Download item 1910030452 result : Failure
+[2026-10-06 23:31:21] [AppID 255710] Download item 1920010520 requested by app
+[2026-10-06 23:31:21] [AppID 255710] Starting Workshop download job (requested item 1920010520 )
+[2026-10-06 23:31:22] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:22] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1920010520, new manifest 1489446762015954382
+[2026-10-06 23:31:22] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 1489446762015954382 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:22] [AppID 255710] Download item 1920010520 result : Failure
+[2026-10-06 23:31:23] [AppID 255710] Download item 1920011340 requested by app
+[2026-10-06 23:31:23] [AppID 255710] Starting Workshop download job (requested item 1920011340 )
+[2026-10-06 23:31:23] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:23] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1920011340, new manifest 1797166815908010287
+[2026-10-06 23:31:23] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 1797166815908010287 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:23] [AppID 255710] Download item 1920011340 result : Failure
+[2026-10-06 23:31:24] [AppID 255710] Download item 1920009684 requested by app
+[2026-10-06 23:31:24] [AppID 255710] Starting Workshop download job (requested item 1920009684 )
+[2026-10-06 23:31:24] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:24] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1920009684, new manifest 2062938280275416928
+[2026-10-06 23:31:25] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 2062938280275416928 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:25] [AppID 255710] Download item 1920009684 result : Failure
+[2026-10-06 23:31:26] [AppID 255710] Download item 1969779527 requested by app
+[2026-10-06 23:31:26] [AppID 255710] Starting Workshop download job (requested item 1969779527 )
+[2026-10-06 23:31:26] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:26] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1969779527, new manifest 3204591850450601778
+[2026-10-06 23:31:26] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 3204591850450601778 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:26] [AppID 255710] Download item 1969779527 result : Failure
+[2026-10-06 23:31:27] [AppID 255710] Download item 1454714713 requested by app
+[2026-10-06 23:31:27] [AppID 255710] Starting Workshop download job (requested item 1454714713 )
+[2026-10-06 23:31:27] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:27] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1454714713, new manifest 8225777986077904955
+[2026-10-06 23:31:28] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 8225777986077904955 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:28] [AppID 255710] Download item 1454714713 result : Failure
+[2026-10-06 23:31:28] [AppID 255710] Download item 2093066187 requested by app
+[2026-10-06 23:31:28] [AppID 255710] Starting Workshop download job (requested item 2093066187 )
+[2026-10-06 23:31:29] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:29] [AppID 255710] Detected workshop change (latest from server) : changed cached item 2093066187, new manifest 888025615977229661
+[2026-10-06 23:31:29] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 888025615977229661 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:29] [AppID 255710] Download item 2093066187 result : Failure
+[2026-10-06 23:31:30] [AppID 255710] Download item 1500645444 requested by app
+[2026-10-06 23:31:30] [AppID 255710] Starting Workshop download job (requested item 1500645444 )
+[2026-10-06 23:31:30] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:30] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1500645444, new manifest 5069694578236942068
+[2026-10-06 23:31:31] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 5069694578236942068 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:31] [AppID 255710] Download item 1500645444 result : Failure
+[2026-10-06 23:31:31] [AppID 255710] Download item 1823661020 requested by app
+[2026-10-06 23:31:31] [AppID 255710] Starting Workshop download job (requested item 1823661020 )
+[2026-10-06 23:31:32] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:32] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1823661020, new manifest 7702612295360668129
+[2026-10-06 23:31:32] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 7702612295360668129 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:32] [AppID 255710] Download item 1823661020 result : Failure
+[2026-10-06 23:31:33] [AppID 255710] Download item 638797814 requested by app
+[2026-10-06 23:31:33] [AppID 255710] Starting Workshop download job (requested item 638797814 )
+[2026-10-06 23:31:33] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:33] [AppID 255710] Detected workshop change (latest from server) : changed cached item 638797814, new manifest 7451257584794576274
+[2026-10-06 23:31:34] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 7451257584794576274 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:34] [AppID 255710] Download item 638797814 result : Failure
+[2026-10-06 23:31:34] [AppID 255710] Download item 637278354 requested by app
+[2026-10-06 23:31:34] [AppID 255710] Starting Workshop download job (requested item 637278354 )
+[2026-10-06 23:31:35] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:35] [AppID 255710] Detected workshop change (latest from server) : changed cached item 637278354, new manifest 7830690929987476790
+[2026-10-06 23:31:35] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 7830690929987476790 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:35] [AppID 255710] Download item 637278354 result : Failure
+[2026-10-06 23:31:36] [AppID 255710] Download item 1371969393 requested by app
+[2026-10-06 23:31:36] [AppID 255710] Starting Workshop download job (requested item 1371969393 )
+[2026-10-06 23:31:36] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:36] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1371969393, new manifest 1971527745465058677
+[2026-10-06 23:31:37] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 1971527745465058677 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:37] [AppID 255710] Download item 1371969393 result : Failure
+[2026-10-06 23:31:37] [AppID 255710] Download item 1375785826 requested by app
+[2026-10-06 23:31:37] [AppID 255710] Starting Workshop download job (requested item 1375785826 )
+[2026-10-06 23:31:38] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:38] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1375785826, new manifest 5785728279816550984
+[2026-10-06 23:31:38] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 5785728279816550984 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:38] [AppID 255710] Download item 1375785826 result : Failure
+[2026-10-06 23:31:39] [AppID 255710] Download item 1384477850 requested by app
+[2026-10-06 23:31:39] [AppID 255710] Starting Workshop download job (requested item 1384477850 )
+[2026-10-06 23:31:39] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:39] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1384477850, new manifest 1694025228069135829
+[2026-10-06 23:31:39] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 1694025228069135829 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:39] [AppID 255710] Download item 1384477850 result : Failure
+[2026-10-06 23:31:40] [AppID 255710] Download item 1777085832 requested by app
+[2026-10-06 23:31:40] [AppID 255710] Starting Workshop download job (requested item 1777085832 )
+[2026-10-06 23:31:41] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:41] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1777085832, new manifest 2543100723635736773
+[2026-10-06 23:31:41] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 2543100723635736773 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:41] [AppID 255710] Download item 1777085832 result : Failure
+[2026-10-06 23:31:41] [AppID 255710] Download item 1777134557 requested by app
+[2026-10-06 23:31:42] [AppID 255710] Starting Workshop download job (requested item 1777134557 )
+[2026-10-06 23:31:42] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:42] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1777134557, new manifest 4166806023905752444
+[2026-10-06 23:31:42] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 4166806023905752444 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:42] [AppID 255710] Download item 1777134557 result : Failure
+[2026-10-06 23:31:43] [AppID 255710] Download item 2055418110 requested by app
+[2026-10-06 23:31:43] [AppID 255710] Starting Workshop download job (requested item 2055418110 )
+[2026-10-06 23:31:43] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:43] [AppID 255710] Detected workshop change (latest from server) : changed cached item 2055418110, new manifest 3833646724462210457
+[2026-10-06 23:31:44] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 3833646724462210457 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:44] [AppID 255710] Download item 2055418110 result : Failure
+[2026-10-06 23:31:44] [AppID 255710] Download item 1882467818 requested by app
+[2026-10-06 23:31:44] [AppID 255710] Starting Workshop download job (requested item 1882467818 )
+[2026-10-06 23:31:45] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:45] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1882467818, new manifest 2797914416542421057
+[2026-10-06 23:31:45] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 2797914416542421057 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:45] [AppID 255710] Download item 1882467818 result : Failure
+[2026-10-06 23:31:46] [AppID 255710] Download item 1800302961 requested by app
+[2026-10-06 23:31:46] [AppID 255710] Starting Workshop download job (requested item 1800302961 )
+[2026-10-06 23:31:46] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:46] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1800302961, new manifest 967109288996320237
+[2026-10-06 23:31:47] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 967109288996320237 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:47] [AppID 255710] Download item 1800302961 result : Failure
+[2026-10-06 23:31:47] [AppID 255710] Download item 1802468178 requested by app
+[2026-10-06 23:31:47] [AppID 255710] Starting Workshop download job (requested item 1802468178 )
+[2026-10-06 23:31:48] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:48] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1802468178, new manifest 6937804393743832000
+[2026-10-06 23:31:48] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 6937804393743832000 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:48] [AppID 255710] Download item 1802468178 result : Failure
+[2026-10-06 23:31:49] [AppID 255710] Download item 1904076388 requested by app
+[2026-10-06 23:31:49] [AppID 255710] Starting Workshop download job (requested item 1904076388 )
+[2026-10-06 23:31:49] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:49] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1904076388, new manifest 8113305738096471655
+[2026-10-06 23:31:50] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 8113305738096471655 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:50] [AppID 255710] Download item 1904076388 result : Failure
+[2026-10-06 23:31:50] [AppID 255710] Download item 1783020408 requested by app
+[2026-10-06 23:31:50] [AppID 255710] Starting Workshop download job (requested item 1783020408 )
+[2026-10-06 23:31:51] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:51] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1783020408, new manifest 5400705495064168924
+[2026-10-06 23:31:51] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 5400705495064168924 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:51] [AppID 255710] Download item 1783020408 result : Failure
+[2026-10-06 23:31:51] [AppID 255710] Download item 670678850 requested by app
+[2026-10-06 23:31:52] [AppID 255710] Starting Workshop download job (requested item 670678850 )
+[2026-10-06 23:31:52] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:52] [AppID 255710] Detected workshop change (latest from server) : changed cached item 670678850, new manifest 3513676553245811804
+[2026-10-06 23:31:52] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 3513676553245811804 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:52] [AppID 255710] Download item 670678850 result : Failure
+[2026-10-06 23:31:53] [AppID 255710] Download item 704690925 requested by app
+[2026-10-06 23:31:53] [AppID 255710] Starting Workshop download job (requested item 704690925 )
+[2026-10-06 23:31:53] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:53] [AppID 255710] Detected workshop change (latest from server) : changed cached item 704690925, new manifest 8599911688460603494
+[2026-10-06 23:31:54] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 8599911688460603494 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:54] [AppID 255710] Download item 704690925 result : Failure
+[2026-10-06 23:31:54] [AppID 255710] Download item 903255916 requested by app
+[2026-10-06 23:31:54] [AppID 255710] Starting Workshop download job (requested item 903255916 )
+[2026-10-06 23:31:55] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:55] [AppID 255710] Detected workshop change (latest from server) : changed cached item 903255916, new manifest 8727375674610018839
+[2026-10-06 23:31:55] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 8727375674610018839 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:55] [AppID 255710] Download item 903255916 result : Failure
+[2026-10-06 23:31:56] [AppID 255710] Download item 670483932 requested by app
+[2026-10-06 23:31:56] [AppID 255710] Starting Workshop download job (requested item 670483932 )
+[2026-10-06 23:31:56] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:56] [AppID 255710] Detected workshop change (latest from server) : changed cached item 670483932, new manifest 9075813793263409257
+[2026-10-06 23:31:56] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 9075813793263409257 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:56] [AppID 255710] Download item 670483932 result : Failure
+[2026-10-06 23:31:57] [AppID 255710] Download item 670480598 requested by app
+[2026-10-06 23:31:57] [AppID 255710] Starting Workshop download job (requested item 670480598 )
+[2026-10-06 23:31:58] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:58] [AppID 255710] Detected workshop change (latest from server) : changed cached item 670480598, new manifest 6936703514291411170
+[2026-10-06 23:31:58] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 6936703514291411170 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:58] [AppID 255710] Download item 670480598 result : Failure
+[2026-10-06 23:31:59] [AppID 255710] Download item 704697814 requested by app
+[2026-10-06 23:31:59] [AppID 255710] Starting Workshop download job (requested item 704697814 )
+[2026-10-06 23:31:59] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:31:59] [AppID 255710] Detected workshop change (latest from server) : changed cached item 704697814, new manifest 7425623660256675536
+[2026-10-06 23:31:59] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 7425623660256675536 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:31:59] [AppID 255710] Download item 704697814 result : Failure
+[2026-10-06 23:32:00] [AppID 255710] Download item 704689119 requested by app
+[2026-10-06 23:32:00] [AppID 255710] Starting Workshop download job (requested item 704689119 )
+[2026-10-06 23:32:01] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:01] [AppID 255710] Detected workshop change (latest from server) : changed cached item 704689119, new manifest 3292456028370557231
+[2026-10-06 23:32:01] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 3292456028370557231 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:01] [AppID 255710] Download item 704689119 result : Failure
+[2026-10-06 23:32:02] [AppID 255710] Download item 704696149 requested by app
+[2026-10-06 23:32:02] [AppID 255710] Starting Workshop download job (requested item 704696149 )
+[2026-10-06 23:32:02] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:02] [AppID 255710] Detected workshop change (latest from server) : changed cached item 704696149, new manifest 601643553436701772
+[2026-10-06 23:32:02] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 601643553436701772 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:02] [AppID 255710] Download item 704696149 result : Failure
+[2026-10-06 23:32:03] [AppID 255710] Download item 670455742 requested by app
+[2026-10-06 23:32:03] [AppID 255710] Starting Workshop download job (requested item 670455742 )
+[2026-10-06 23:32:03] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:03] [AppID 255710] Detected workshop change (latest from server) : changed cached item 670455742, new manifest 8570617790156168092
+[2026-10-06 23:32:04] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 8570617790156168092 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:04] [AppID 255710] Download item 670455742 result : Failure
+[2026-10-06 23:32:04] [AppID 255710] Download item 1588251362 requested by app
+[2026-10-06 23:32:04] [AppID 255710] Starting Workshop download job (requested item 1588251362 )
+[2026-10-06 23:32:05] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:05] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1588251362, new manifest 9133310263956090988
+[2026-10-06 23:32:05] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 9133310263956090988 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:05] [AppID 255710] Download item 1588251362 result : Failure
+[2026-10-06 23:32:06] [AppID 255710] Download item 1419249986 requested by app
+[2026-10-06 23:32:06] [AppID 255710] Starting Workshop download job (requested item 1419249986 )
+[2026-10-06 23:32:06] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:06] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1419249986, new manifest 6971539182368362794
+[2026-10-06 23:32:07] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 6971539182368362794 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:07] [AppID 255710] Download item 1419249986 result : Failure
+[2026-10-06 23:32:07] [AppID 255710] Download item 505470538 requested by app
+[2026-10-06 23:32:07] [AppID 255710] Starting Workshop download job (requested item 505470538 )
+[2026-10-06 23:32:08] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:08] [AppID 255710] Detected workshop change (latest from server) : changed cached item 505470538, new manifest 3785845177099498375
+[2026-10-06 23:32:08] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 3785845177099498375 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:08] [AppID 255710] Download item 505470538 result : Failure
+[2026-10-06 23:32:09] [AppID 255710] Download item 692140923 requested by app
+[2026-10-06 23:32:09] [AppID 255710] Starting Workshop download job (requested item 692140923 )
+[2026-10-06 23:32:09] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:09] [AppID 255710] Detected workshop change (latest from server) : changed cached item 692140923, new manifest 8330113841737847608
+[2026-10-06 23:32:10] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 8330113841737847608 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:10] [AppID 255710] Download item 692140923 result : Failure
+[2026-10-06 23:32:10] [AppID 255710] Download item 1878403460 requested by app
+[2026-10-06 23:32:10] [AppID 255710] Starting Workshop download job (requested item 1878403460 )
+[2026-10-06 23:32:11] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:11] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1878403460, new manifest 4409808419707672261
+[2026-10-06 23:32:11] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 4409808419707672261 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:11] [AppID 255710] Download item 1878403460 result : Failure
+[2026-10-06 23:32:12] [AppID 255710] Download item 1732262829 requested by app
+[2026-10-06 23:32:12] [AppID 255710] Starting Workshop download job (requested item 1732262829 )
+[2026-10-06 23:32:12] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:12] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1732262829, new manifest 4614499293493650455
+[2026-10-06 23:32:12] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 4614499293493650455 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:12] [AppID 255710] Download item 1732262829 result : Failure
+[2026-10-06 23:32:13] [AppID 255710] Download item 645447954 requested by app
+[2026-10-06 23:32:13] [AppID 255710] Starting Workshop download job (requested item 645447954 )
+[2026-10-06 23:32:13] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:13] [AppID 255710] Detected workshop change (latest from server) : changed cached item 645447954, new manifest 7624567298962472945
+[2026-10-06 23:32:14] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 7624567298962472945 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:14] [AppID 255710] Download item 645447954 result : Failure
+[2026-10-06 23:32:14] [AppID 255710] Download item 1433541000 requested by app
+[2026-10-06 23:32:14] [AppID 255710] Starting Workshop download job (requested item 1433541000 )
+[2026-10-06 23:32:15] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:15] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1433541000, new manifest 9204829224939854787
+[2026-10-06 23:32:15] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 9204829224939854787 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:15] [AppID 255710] Download item 1433541000 result : Failure
+[2026-10-06 23:32:16] [AppID 255710] Download item 1662038005 requested by app
+[2026-10-06 23:32:16] [AppID 255710] Starting Workshop download job (requested item 1662038005 )
+[2026-10-06 23:32:16] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:16] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1662038005, new manifest 6887473452197130237
+[2026-10-06 23:32:17] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 6887473452197130237 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:17] [AppID 255710] Download item 1662038005 result : Failure
+[2026-10-06 23:32:17] [AppID 255710] Download item 670479842 requested by app
+[2026-10-06 23:32:17] [AppID 255710] Starting Workshop download job (requested item 670479842 )
+[2026-10-06 23:32:18] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:18] [AppID 255710] Detected workshop change (latest from server) : changed cached item 670479842, new manifest 5886121326681379478
+[2026-10-06 23:32:18] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 5886121326681379478 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:18] [AppID 255710] Download item 670479842 result : Failure
+[2026-10-06 23:32:19] [AppID 255710] Download item 670459609 requested by app
+[2026-10-06 23:32:19] [AppID 255710] Starting Workshop download job (requested item 670459609 )
+[2026-10-06 23:32:19] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:19] [AppID 255710] Detected workshop change (latest from server) : changed cached item 670459609, new manifest 4924714067379379724
+[2026-10-06 23:32:20] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 4924714067379379724 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:20] [AppID 255710] Download item 670459609 result : Failure
+[2026-10-06 23:32:20] [AppID 255710] Download item 670453311 requested by app
+[2026-10-06 23:32:20] [AppID 255710] Starting Workshop download job (requested item 670453311 )
+[2026-10-06 23:32:21] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:21] [AppID 255710] Detected workshop change (latest from server) : changed cached item 670453311, new manifest 8078347184780555281
+[2026-10-06 23:32:21] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 8078347184780555281 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:21] [AppID 255710] Download item 670453311 result : Failure
+[2026-10-06 23:32:22] [AppID 255710] Download item 670478978 requested by app
+[2026-10-06 23:32:22] [AppID 255710] Starting Workshop download job (requested item 670478978 )
+[2026-10-06 23:32:22] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:22] [AppID 255710] Detected workshop change (latest from server) : changed cached item 670478978, new manifest 101524012659242753
+[2026-10-06 23:32:23] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 101524012659242753 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:23] [AppID 255710] Download item 670478978 result : Failure
+[2026-10-06 23:32:23] [AppID 255710] Download item 670482309 requested by app
+[2026-10-06 23:32:23] [AppID 255710] Starting Workshop download job (requested item 670482309 )
+[2026-10-06 23:32:24] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:24] [AppID 255710] Detected workshop change (latest from server) : changed cached item 670482309, new manifest 820196123726951183
+[2026-10-06 23:32:24] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 820196123726951183 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:24] [AppID 255710] Download item 670482309 result : Failure
+[2026-10-06 23:32:25] [AppID 255710] Download item 1485335974 requested by app
+[2026-10-06 23:32:25] [AppID 255710] Starting Workshop download job (requested item 1485335974 )
+[2026-10-06 23:32:25] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:25] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1485335974, new manifest 2195526478709888420
+[2026-10-06 23:32:25] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 2195526478709888420 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:25] [AppID 255710] Download item 1485335974 result : Failure
+[2026-10-06 23:32:26] [AppID 255710] Download item 670478164 requested by app
+[2026-10-06 23:32:26] [AppID 255710] Starting Workshop download job (requested item 670478164 )
+[2026-10-06 23:32:26] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:26] [AppID 255710] Detected workshop change (latest from server) : changed cached item 670478164, new manifest 411287206104544035
+[2026-10-06 23:32:27] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 411287206104544035 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:27] [AppID 255710] Download item 670478164 result : Failure
+[2026-10-06 23:32:27] [AppID 255710] Download item 670483200 requested by app
+[2026-10-06 23:32:28] [AppID 255710] Starting Workshop download job (requested item 670483200 )
+[2026-10-06 23:32:28] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:28] [AppID 255710] Detected workshop change (latest from server) : changed cached item 670483200, new manifest 2365715899650392568
+[2026-10-06 23:32:28] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 2365715899650392568 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:28] [AppID 255710] Download item 670483200 result : Failure
+[2026-10-06 23:32:29] [AppID 255710] Download item 670484723 requested by app
+[2026-10-06 23:32:29] [AppID 255710] Starting Workshop download job (requested item 670484723 )
+[2026-10-06 23:32:29] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:29] [AppID 255710] Detected workshop change (latest from server) : changed cached item 670484723, new manifest 2223042837291006389
+[2026-10-06 23:32:30] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 2223042837291006389 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:30] [AppID 255710] Download item 670484723 result : Failure
+[2026-10-06 23:32:31] [AppID 255710] Download item 670456752 requested by app
+[2026-10-06 23:32:31] [AppID 255710] Starting Workshop download job (requested item 670456752 )
+[2026-10-06 23:32:31] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:31] [AppID 255710] Detected workshop change (latest from server) : changed cached item 670456752, new manifest 3350967573185957769
+[2026-10-06 23:32:31] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 3350967573185957769 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:31] [AppID 255710] Download item 670456752 result : Failure
+[2026-10-06 23:32:32] [AppID 255710] Download item 670476526 requested by app
+[2026-10-06 23:32:32] [AppID 255710] Starting Workshop download job (requested item 670476526 )
+[2026-10-06 23:32:32] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:32] [AppID 255710] Detected workshop change (latest from server) : changed cached item 670476526, new manifest 4136546384419811421
+[2026-10-06 23:32:33] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 4136546384419811421 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:33] [AppID 255710] Download item 670476526 result : Failure
+[2026-10-06 23:32:33] [AppID 255710] Download item 670460770 requested by app
+[2026-10-06 23:32:33] [AppID 255710] Starting Workshop download job (requested item 670460770 )
+[2026-10-06 23:32:34] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:34] [AppID 255710] Detected workshop change (latest from server) : changed cached item 670460770, new manifest 60801893454738098
+[2026-10-06 23:32:34] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 60801893454738098 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:34] [AppID 255710] Download item 670460770 result : Failure
+[2026-10-06 23:32:35] [AppID 255710] Download item 2135605473 requested by app
+[2026-10-06 23:32:35] [AppID 255710] Starting Workshop download job (requested item 2135605473 )
+[2026-10-06 23:32:35] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:35] [AppID 255710] Detected workshop change (latest from server) : changed cached item 2135605473, new manifest 7758605908608245253
+[2026-10-06 23:32:36] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 7758605908608245253 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:36] [AppID 255710] Download item 2135605473 result : Failure
+[2026-10-06 23:32:36] [AppID 255710] Download item 2295225302 requested by app
+[2026-10-06 23:32:36] [AppID 255710] Starting Workshop download job (requested item 2295225302 )
+[2026-10-06 23:32:37] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:37] [AppID 255710] Detected workshop change (latest from server) : changed cached item 2295225302, new manifest 5821485012175669760
+[2026-10-06 23:32:37] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 5821485012175669760 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:37] [AppID 255710] Download item 2295225302 result : Failure
+[2026-10-06 23:32:38] [AppID 255710] Download item 2188350718 requested by app
+[2026-10-06 23:32:38] [AppID 255710] Starting Workshop download job (requested item 2188350718 )
+[2026-10-06 23:32:38] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:38] [AppID 255710] Detected workshop change (latest from server) : changed cached item 2188350718, new manifest 8531187226702231168
+[2026-10-06 23:32:39] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 8531187226702231168 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:39] [AppID 255710] Download item 2188350718 result : Failure
+[2026-10-06 23:32:39] [AppID 255710] Download item 2317932283 requested by app
+[2026-10-06 23:32:39] [AppID 255710] Starting Workshop download job (requested item 2317932283 )
+[2026-10-06 23:32:39] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:39] [AppID 255710] Detected workshop change (latest from server) : changed cached item 2317932283, new manifest 5513641800902788073
+[2026-10-06 23:32:40] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 5513641800902788073 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:40] [AppID 255710] Download item 2317932283 result : Failure
+[2026-10-06 23:32:40] [AppID 255710] Download item 2306578888 requested by app
+[2026-10-06 23:32:40] [AppID 255710] Starting Workshop download job (requested item 2306578888 )
+[2026-10-06 23:32:41] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:41] [AppID 255710] Detected workshop change (latest from server) : changed cached item 2306578888, new manifest 9178313203191053082
+[2026-10-06 23:32:41] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 9178313203191053082 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:41] [AppID 255710] Download item 2306578888 result : Failure
+[2026-10-06 23:32:42] [AppID 255710] Download item 1265725079 requested by app
+[2026-10-06 23:32:42] [AppID 255710] Starting Workshop download job (requested item 1265725079 )
+[2026-10-06 23:32:42] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:42] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1265725079, new manifest 8836159918260388728
+[2026-10-06 23:32:43] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 8836159918260388728 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:43] [AppID 255710] Download item 1265725079 result : Failure
+[2026-10-06 23:32:43] [AppID 255710] Download item 2321003168 requested by app
+[2026-10-06 23:32:43] [AppID 255710] Starting Workshop download job (requested item 2321003168 )
+[2026-10-06 23:32:44] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:44] [AppID 255710] Detected workshop change (latest from server) : changed cached item 2321003168, new manifest 6384948838559422606
+[2026-10-06 23:32:44] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 6384948838559422606 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:44] [AppID 255710] Download item 2321003168 result : Failure
+[2026-10-06 23:32:45] [AppID 255710] Download item 640430204 requested by app
+[2026-10-06 23:32:45] [AppID 255710] Starting Workshop download job (requested item 640430204 )
+[2026-10-06 23:32:45] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:45] [AppID 255710] Detected workshop change (latest from server) : changed cached item 640430204, new manifest 6236874662320354269
+[2026-10-06 23:32:46] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 6236874662320354269 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:46] [AppID 255710] Download item 640430204 result : Failure
+[2026-10-06 23:32:46] [AppID 255710] Download item 2308488186 requested by app
+[2026-10-06 23:32:46] [AppID 255710] Starting Workshop download job (requested item 2308488186 )
+[2026-10-06 23:32:47] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:47] [AppID 255710] Detected workshop change (latest from server) : changed cached item 2308488186, new manifest 1160901242926829218
+[2026-10-06 23:32:47] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 1160901242926829218 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:47] [AppID 255710] Download item 2308488186 result : Failure
+[2026-10-06 23:32:48] [AppID 255710] Download item 2311419358 requested by app
+[2026-10-06 23:32:48] [AppID 255710] Starting Workshop download job (requested item 2311419358 )
+[2026-10-06 23:32:48] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:48] [AppID 255710] Detected workshop change (latest from server) : changed cached item 2311419358, new manifest 2540409595375808786
+[2026-10-06 23:32:48] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 2540409595375808786 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:48] [AppID 255710] Download item 2311419358 result : Failure
+[2026-10-06 23:32:49] [AppID 255710] Download item 641645676 requested by app
+[2026-10-06 23:32:49] [AppID 255710] Starting Workshop download job (requested item 641645676 )
+[2026-10-06 23:32:49] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:49] [AppID 255710] Detected workshop change (latest from server) : changed cached item 641645676, new manifest 2923208527883853466
+[2026-10-06 23:32:50] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 2923208527883853466 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:50] [AppID 255710] Download item 641645676 result : Failure
+[2026-10-06 23:32:50] [AppID 255710] Download item 642816068 requested by app
+[2026-10-06 23:32:51] [AppID 255710] Starting Workshop download job (requested item 642816068 )
+[2026-10-06 23:32:51] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:51] [AppID 255710] Detected workshop change (latest from server) : changed cached item 642816068, new manifest 2744493699279219383
+[2026-10-06 23:32:51] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 2744493699279219383 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:51] [AppID 255710] Download item 642816068 result : Failure
+[2026-10-06 23:32:52] [AppID 255710] Download item 2311415111 requested by app
+[2026-10-06 23:32:52] [AppID 255710] Starting Workshop download job (requested item 2311415111 )
+[2026-10-06 23:32:52] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:52] [AppID 255710] Detected workshop change (latest from server) : changed cached item 2311415111, new manifest 1596777363234918968
+[2026-10-06 23:32:53] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 1596777363234918968 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:53] [AppID 255710] Download item 2311415111 result : Failure
+[2026-10-06 23:32:53] [AppID 255710] Download item 894538077 requested by app
+[2026-10-06 23:32:53] [AppID 255710] Starting Workshop download job (requested item 894538077 )
+[2026-10-06 23:32:54] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:54] [AppID 255710] Detected workshop change (latest from server) : changed cached item 894538077, new manifest 2264698000726753428
+[2026-10-06 23:32:54] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 2264698000726753428 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:54] [AppID 255710] Download item 894538077 result : Failure
+[2026-10-06 23:32:55] [AppID 255710] Download item 1314473106 requested by app
+[2026-10-06 23:32:55] [AppID 255710] Starting Workshop download job (requested item 1314473106 )
+[2026-10-06 23:32:55] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:55] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1314473106, new manifest 2669828318513883518
+[2026-10-06 23:32:56] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 2669828318513883518 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:56] [AppID 255710] Download item 1314473106 result : Failure
+[2026-10-06 23:32:56] [AppID 255710] Download item 438784379 requested by app
+[2026-10-06 23:32:56] [AppID 255710] Starting Workshop download job (requested item 438784379 )
+[2026-10-06 23:32:57] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:57] [AppID 255710] Detected workshop change (latest from server) : changed cached item 438784379, new manifest 1408996987938569651
+[2026-10-06 23:32:57] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 1408996987938569651 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:57] [AppID 255710] Download item 438784379 result : Failure
+[2026-10-06 23:32:58] [AppID 255710] Download item 414485706 requested by app
+[2026-10-06 23:32:58] [AppID 255710] Starting Workshop download job (requested item 414485706 )
+[2026-10-06 23:32:58] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:32:58] [AppID 255710] Detected workshop change (latest from server) : changed cached item 414485706, new manifest 2644419375972526492
+[2026-10-06 23:32:59] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 2644419375972526492 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:32:59] [AppID 255710] Download item 414485706 result : Failure
+[2026-10-06 23:32:59] [AppID 255710] Download item 1223018205 requested by app
+[2026-10-06 23:32:59] [AppID 255710] Starting Workshop download job (requested item 1223018205 )
+[2026-10-06 23:33:00] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:33:00] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1223018205, new manifest 5566646269852141485
+[2026-10-06 23:33:00] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 5566646269852141485 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:33:00] [AppID 255710] Download item 1223018205 result : Failure
+[2026-10-06 23:33:01] [AppID 255710] Download item 1447008803 requested by app
+[2026-10-06 23:33:01] [AppID 255710] Starting Workshop download job (requested item 1447008803 )
+[2026-10-06 23:33:01] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:33:01] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1447008803, new manifest 7245187209222610278
+[2026-10-06 23:33:02] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 7245187209222610278 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:33:02] [AppID 255710] Download item 1447008803 result : Failure
+[2026-10-06 23:33:02] [AppID 255710] Download item 1977179043 requested by app
+[2026-10-06 23:33:02] [AppID 255710] Starting Workshop download job (requested item 1977179043 )
+[2026-10-06 23:33:03] [AppID 255710] Item info for 1 item(s) (unknown only): revision 0, 1 update(s), 0 private, update time 1791310968
+[2026-10-06 23:33:03] [AppID 255710] Detected workshop change (latest from server) : changed cached item 1977179043, new manifest 2113475763866004850
+[2026-10-06 23:33:03] [AppID 255710] Update canceled: Failed to initialize depot 255710, manifest 2113475763866004850 (Missing decryption key) (Missing decryption key)
+[2026-10-06 23:33:03] [AppID 255710] Download item 1977179043 result : Failure
+[2026-10-06 23:33:04] [AppID 255710] Download item 1985979126 requested by app
+[2026-10-06 23:33:04] [AppID 255710] Starting Workshop download job (requested item 1985979126 )
